@@ -12,14 +12,7 @@ add_message_files(
   Helm.msg
 )
 
-## Generate services in the 'srv' folder
-# add_service_files(
-#   FILES
-#   Service1.srv
-#   Service2.srv
-# )
-
 generate_messages()
 
-catkin_package()
+catkin_package( CATKIN_DEPENDS message_runtime )
 
