@@ -1,3 +1,25 @@
+## kingfisher (hydro) - 0.0.4-1
+
+User `y22ma@y22ma-GT60-0NC-GT60-0NC` released the packages in the `kingfisher` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro kingfisher` on `Wed, 05 Mar 2014 20:10:39 -0000`
+
+These packages were released:
+- `kingfisher_description`
+- `kingfisher_msgs`
+- `kingfisher_teleop`
+
+Version of package(s) in repository `kingfisher`:
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.4-0`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.30`
+
+
 ## kingfisher_description (hydro) - 0.0.4-0
 
 User `y22ma@y22ma-GT60-0NC-GT60-0NC` released the packages in the `kingfisher_description` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro kingfisher_description` on `Wed, 05 Mar 2014 19:51:00 -0000`
