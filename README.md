@@ -1,3 +1,26 @@
+## kingfisher (indigo) - 0.1.0-0
+
+The packages in the `kingfisher` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -t indigo -r indigo kingfisher --new-track` on `Tue, 02 Dec 2014 15:21:04 -0000`
+
+These packages were released:
+- `kingfisher_description`
+- `kingfisher_msgs`
+
+Version of package(s) in repository `kingfisher`:
+- upstream repository: http://github.com/kf/kingfisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.33`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## kingfisher (hydro) - 0.0.4-1
 
 User `y22ma@y22ma-GT60-0NC-GT60-0NC` released the packages in the `kingfisher` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro kingfisher` on `Wed, 05 Mar 2014 20:10:39 -0000`
