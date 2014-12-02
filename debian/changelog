@@ -1,0 +1,32 @@
+ros-indigo-kingfisher-description (0.1.0-0saucy) saucy; urgency=high
+
+  * Add roslaunch file check to kingfisher_description.
+  * Contributors: Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 02 Dec 2014 05:00:00 -0000
+
+ros-indigo-kingfisher-description (0.0.4-0saucy) saucy; urgency=high
+
+  * fix the launch arg name
+  * unnecessary xacro sonar xacro file
+  * adding sonar to a seperate urdf, and to description launch
+  * add gps to standard sensor suite
+  * Contributors: Yan Ma
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 05 Mar 2014 05:00:00 -0000
+
+ros-indigo-kingfisher-description (0.0.3-0saucy) saucy; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 24 Oct 2013 04:00:00 -0000
+
+ros-indigo-kingfisher-description (0.0.2-0saucy) saucy; urgency=high
+
+  * Fix model colours, retab base file.
+  * Basic catkinization of description package.
+  * Move kingfisher_description into subdirectory.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 15 Oct 2013 04:00:00 -0000
+
+
