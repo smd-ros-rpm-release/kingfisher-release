@@ -3,6 +3,11 @@ Changelog for package kingfisher_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+0.1.0 (2014-12-02)
+------------------
+* Add roslaunch file check to kingfisher_description.
+* Contributors: Mike Purvis
+
 0.0.4 (2014-03-05)
 ------------------
 * fix the launch arg name
